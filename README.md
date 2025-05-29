@@ -1,7 +1,6 @@
 # 📝 React TextExpander Component
 
-**A reusable and customizable **TextExpander** component built with React. It truncates long text and allows users to expand or collapse content dynamically. Useful for displaying previews, blog excerpts, or long paragraphs with toggling.
-**
+A reusable and customizable **TextExpander** component built with React. It truncates long text and allows users to expand or collapse content dynamically. Useful for displaying previews, blog excerpts, or long paragraphs with toggling.
 
 ## ✨ Features
 
